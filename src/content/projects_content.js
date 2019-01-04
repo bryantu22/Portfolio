@@ -22,7 +22,7 @@ const projects = [
       github: "https://github.com/bryantu22/Stock",
       preview: "https://stockfeed.net"
     }
-  },
+  }, 
   {
     title: "Bitcoin Speed Up",
     description:
@@ -31,7 +31,7 @@ const projects = [
     screenshot: "ethrocket.png",
     links: {
       github: "https://github.com/bryantu22/Bitcoin-Speed-Up",
-      preview: "https://btcspeedup.com/"
+      preview: "https://bitcoinspeedup.herokuapp.com/"
     }
   },
   {
